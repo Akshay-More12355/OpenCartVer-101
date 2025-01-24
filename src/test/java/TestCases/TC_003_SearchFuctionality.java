@@ -41,7 +41,8 @@ public class TC_003_SearchFuctionality extends Base_Class {
 		search.searchProduct("samsung mobile");
 		search.searchProductandClick();
 		
-		search.ClickonCheckBox();
+		boolean isChecked  = search.ClickonCheckBox();
+		Assert.assertTrue(isChecked,"check box is checked");
 		
 		logger.info("<<< Test case finished >>>");
 		

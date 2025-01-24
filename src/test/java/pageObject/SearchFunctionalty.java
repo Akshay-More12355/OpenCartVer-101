@@ -32,9 +32,10 @@ public class SearchFunctionalty extends baseClass{
 		search_btn.click();
 	}
 	
-	public void ClickonCheckBox()
+	public boolean ClickonCheckBox()
 	{
 		checkbox.click();
+		return true;
 	}
 }
 

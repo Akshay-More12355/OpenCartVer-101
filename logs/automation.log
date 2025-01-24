@@ -43,3 +43,12 @@
 2025-01-24 12:05:49 INFO  TC_001_RegistrationPage:48 - <<< Test case 'getRegistered()' finished >>>
 2025-01-24 12:05:52 INFO  TC_002_LoginTest:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
 2025-01-24 12:05:52 INFO  TC_002_LoginTest:19 - <<< Test case started >>>
+2025-01-24 12:14:21 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium_Java_Framework\com.OpenCartVer-101\master.xml
+
+2025-01-24 12:14:27 INFO  TC_003_SearchFuctionality:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
+2025-01-24 12:14:27 INFO  TC_003_SearchFuctionality:22 - <<< Test case started >>>
+2025-01-24 12:14:27 INFO  TC_003_SearchFuctionality:29 - <<< click on my account and login>>>
+2025-01-24 12:14:27 INFO  TC_003_SearchFuctionality:34 - <<< login successfully with credentials >>>
+2025-01-24 12:14:28 INFO  TC_003_SearchFuctionality:40 - <<< search product via search box >>>
+2025-01-24 12:14:29 INFO  TC_003_SearchFuctionality:47 - <<< Test case finished >>>

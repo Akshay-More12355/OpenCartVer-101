@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-24T11:51:58 IST" name="Suite" finished-at="2025-01-24T11:52:04 IST" duration-ms="5591">
+  <suite started-at="2025-01-24T12:14:21 IST" name="Suite" finished-at="2025-01-24T12:14:29 IST" duration-ms="7807">
     <groups>
     </groups>
-    <test started-at="2025-01-24T11:51:58 IST" name="Test" finished-at="2025-01-24T11:52:04 IST" duration-ms="5591">
+    <test started-at="2025-01-24T12:14:21 IST" name="Test" finished-at="2025-01-24T12:14:29 IST" duration-ms="7807">
       <class name="TestCases.TC_003_SearchFuctionality">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:TestCases.TC_003_SearchFuctionality@66ce957f]" started-at="2025-01-24T11:51:59 IST" name="setUp" finished-at="2025-01-24T11:52:02 IST" duration-ms="2846" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:TestCases.TC_003_SearchFuctionality@749c877b]" started-at="2025-01-24T12:14:22 IST" name="setUp" finished-at="2025-01-24T12:14:27 IST" duration-ms="5126" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="getProductSearch()[pri:0, instance:TestCases.TC_003_SearchFuctionality@66ce957f]" started-at="2025-01-24T11:52:02 IST" name="getProductSearch" finished-at="2025-01-24T11:52:04 IST" duration-ms="2206" status="PASS">
+        <test-method signature="getProductSearch()[pri:0, instance:TestCases.TC_003_SearchFuctionality@749c877b]" started-at="2025-01-24T12:14:27 IST" name="getProductSearch" finished-at="2025-01-24T12:14:29 IST" duration-ms="2240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getProductSearch -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_003_SearchFuctionality@66ce957f]" started-at="2025-01-24T11:52:04 IST" name="tearDown" finished-at="2025-01-24T11:52:04 IST" duration-ms="225" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_003_SearchFuctionality@749c877b]" started-at="2025-01-24T12:14:29 IST" name="tearDown" finished-at="2025-01-24T12:14:29 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
