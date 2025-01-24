@@ -8,13 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TC_002_LoginTest">
+      <class name="TestCases.TC_003_SearchFuctionality">
         <methods>
-          <include name="getLoginWithApplication"/>
+          <include name="getProductSearch"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- TestCases.TC_002_LoginTest -->
+      </class> <!-- TestCases.TC_003_SearchFuctionality -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
