@@ -1,0 +1,1 @@
+D:\Selenium_Java_Framework\com.OpenCartVer-101>mvn clean test

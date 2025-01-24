@@ -1,0 +1,19 @@
+2025-01-23 15:10:00 WARN  TestNG:133 - Ignoring duplicate listener : utilities.ExtentReportManager
+2025-01-23 15:10:08 INFO  TC_001_RegistrationPage:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
+2025-01-23 15:10:08 INFO  TC_001_RegistrationPage:16 - <<< Test case started >>>
+2025-01-23 15:10:08 INFO  TC_001_RegistrationPage:22 - Clicked on 'My Account' link.
+2025-01-23 15:10:09 INFO  TC_001_RegistrationPage:25 - Clicked on 'Register' link.
+2025-01-23 15:10:09 INFO  TC_001_RegistrationPage:32 - Sending details for registration.
+2025-01-23 15:10:11 INFO  TC_001_RegistrationPage:44 - Registration details submitted successfully.
+2025-01-23 15:10:11 INFO  TC_001_RegistrationPage:48 - <<< Test case 'getRegistered()' finished >>>
+2025-01-23 15:10:14 INFO  TC_002_LoginTest:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
+2025-01-23 15:10:14 INFO  TC_002_LoginTest:19 - <<< Test case started >>>
+2025-01-23 15:10:21 INFO  TC_001_RegistrationPage:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
+2025-01-23 15:10:21 INFO  TC_001_RegistrationPage:16 - <<< Test case started >>>
+2025-01-23 15:10:22 INFO  TC_001_RegistrationPage:22 - Clicked on 'My Account' link.
+2025-01-23 15:10:23 INFO  TC_001_RegistrationPage:25 - Clicked on 'Register' link.
+2025-01-23 15:10:23 INFO  TC_001_RegistrationPage:32 - Sending details for registration.
+2025-01-23 15:10:24 INFO  TC_001_RegistrationPage:44 - Registration details submitted successfully.
+2025-01-23 15:10:24 INFO  TC_001_RegistrationPage:48 - <<< Test case 'getRegistered()' finished >>>
+2025-01-23 15:10:28 INFO  TC_002_LoginTest:73 - Browser setup completed. Navigated to URL: https://tutorialsninja.com/demo/
+2025-01-23 15:10:28 INFO  TC_002_LoginTest:19 - <<< Test case started >>>
